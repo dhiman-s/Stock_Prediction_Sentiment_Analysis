@@ -1,6 +1,4 @@
 Can Social Media Sentiment Drive Stock Prices?
-Sahil Dhiman | sdhiman415@gmail.com | 647-529-6156
-
 
 Using traditional stock analysis with the addition of sentiment analysis can we predict the closing price of TSLA (Tesla Inc.)?
 All the data needed for each book is hosted on Google Drive - https://drive.google.com/drive/folders/15PkwIlqMDJCMSTkbvhtmk46BLyca80vX?usp=drive_link. 
